@@ -1,2 +1,3 @@
-# mini-travel-planner-9tpm
-Automated issue comment bot repository
+# Mini Travel Planner 9Tpm
+
+Automated issue comment bot repository.
